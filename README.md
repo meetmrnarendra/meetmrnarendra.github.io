@@ -1,2 +1,2 @@
 # meetmrnarendra.github.io
-using git hub pagesto host my second web application
+using git hub pages to host my second web application
